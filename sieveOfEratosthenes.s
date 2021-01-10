@@ -1,5 +1,3 @@
-;Faruk Orak 150180058
-
 LIMIT	EQU		120;
 	
 				AREA mydata, data, readwrite
